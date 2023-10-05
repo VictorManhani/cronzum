@@ -23,3 +23,6 @@ print('next date:', next_date)
 
 # How to test
 `pytest .\test_cronzun.py`
+
+# Why Cronzun
+The name of the project is cronzun, because when I was creating the test, making the test fail, implementing the code, making the test pass, while I was doing all this there was a very cunning mosquito flying around and doing all the time its zun zun, which reminded me of hertz and this is the idea of cronzun,  somehow come close to predicting the next hertz of our chronological time.
